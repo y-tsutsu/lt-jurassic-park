@@ -30,6 +30,14 @@ _class: lead invert
 
 ---
 
+![bg brightness:0.3](images/015.jpg)
+
+# **恐竜**の分類
+
+![w:950 h:460](images/016.png)
+
+---
+
 ![bg brightness:0.3](images/002.png)
 
 # １年前の**日向坂で会いましょう**にて
